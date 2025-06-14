@@ -21,7 +21,7 @@ global.pairing_code = true
 global.number_bot = '' // Kalo pake panel bisa masukin nomer di sini, jika belum ambil session. Format : '628xx'
 
 global.fake = {
-	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
+	anonim: 'https://files.catbox.moe/s5o88i.jpg',
 	thumbnailUrl: 'https://telegra.ph/file/fe4843a1261fc414542c4.jpg',
 	thumbnail: fs.readFileSync('./src/media/naze.png'),
 	docs: fs.readFileSync('./src/media/fake.pdf'),
